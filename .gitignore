@@ -1,0 +1,12 @@
+# OS and IDE
+.DS_Store
+.idea
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter Checkpoints
+.ipynb_checkpoints
