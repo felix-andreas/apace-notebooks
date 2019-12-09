@@ -1,9 +1,8 @@
 Tutorials
 =========
 
-Those examples shall just show you how you might use the sphinx-nbexamples
-package. All those examples are generated automatically from the `examples
-directory`_ of the package. But you can also download them from the given
-notebook.
+This sections contains various tutorials on how to use the apace library.
+All those examples can also be found `here`_.
+At the end of each tutorial are also separate links to download the particular tutorial as python script/Jupyter notebook or view it directly in the Jupyter nbviewer.
 
-.. _examples directory: https://github.com/Chilipp/sphinx-nbexamples
+.. _here: https://github.com/andreasfelix/apace-examples
